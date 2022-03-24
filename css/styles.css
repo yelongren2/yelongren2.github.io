@@ -11292,11 +11292,11 @@ html {
 }
 
 .bg-black {
-  background-color: #000 !important;
+  background-color: #1E1E1E !important;
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+  background: linear-gradient(45deg, #0084FF, #B715BD) !important;
 }
 
 .font-alt {
